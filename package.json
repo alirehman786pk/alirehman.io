@@ -1,8 +1,8 @@
 {
   "name": "agen",
   "version": "1.0.0",
-  "description": "agen free bootstrap agency template",
-  "author": "Themefisher",
+  "description": "Moon Real Estate",
+  "author": "Adeel",
   "license": "MIT",
   "scripts": {
     "dev": "gulp",
